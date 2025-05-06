@@ -6,3 +6,5 @@
 6. I now understand how Git helps in collaboration and managing project history.
 7. I learned how to resolve merge conflicts when working with multiple branches.
 8. I explored using Git commands like clone, status, log, and diff to manage changes efficiently.
+9. I understood the difference between local and remote repositories in Git.
+10. I learned how to link a local repository to a remote GitHub repository using the `git remote` command.
