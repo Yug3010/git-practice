@@ -1,3 +1,4 @@
+Name :- Yug Sutariya
 1. I have learned what Git is and how it helps in version control.
 2. I practiced creating a Git repository using the terminal.
 3. I learned how to create and switch between branches in Git.
